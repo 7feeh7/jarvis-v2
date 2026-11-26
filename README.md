@@ -1,8 +1,8 @@
-# template-api-fastify
+# jarvis-v2
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Template simples para iniciar o desenvolvimento de APIs com Fastify.
+Este projeto implementa um sistema RAG (Retrieval-Augmented Generation) usando Fastify como backend, MongoDB Atlas com Vector Search para armazenamento vetorial e um pipeline de ingestão e busca otimizado..
 
 ## Tecnologias
 
@@ -20,7 +20,7 @@ Template simples para iniciar o desenvolvimento de APIs com Fastify.
 1. Clonar o repositório:
 
     ```bash
-    git clone https://github.com/7feeh7/template-api-fastify.git
+    git clone https://github.com/7feeh7/jarvis-v2.git
     ```
 
 2. Instalando as dependências:
@@ -48,4 +48,4 @@ Contribuições para o projeto são bem vindas! Pra contribuir com o projeto, si
 
 Para qualquer dúvida ou consulta, entre em contato com [F-softtech](mailto:felipe.pires.soaresti@gmail.com).
 
-Sinta-se à vontade para entrar em contato conosco se tiver algum comentário, sugestão ou se encontrar algum problema ao usar o template-api-fastify. Sua opinião é valiosa para nós e nos ajuda a melhorar a aplicação.
+Sinta-se à vontade para entrar em contato conosco se tiver algum comentário, sugestão ou se encontrar algum problema ao usar o jarvis-v2. Sua opinião é valiosa para nós e nos ajuda a melhorar a aplicação.
